@@ -1,33 +1,35 @@
 
 
-杨若悦
+##如何用Raptor进行可视化编程
 
 ![](https://raw.githubusercontent.com/yangruoyue/visual-programming/refs/heads/main/a1af47033dff3ec6d002a9ba1243b0e1.png)
 
-Hello  
-welcome to my webpage  
-杨若悦
 
-GitHub offers a vast number of open-source projects, facilitating code hosting and version control, promoting team collaboration, and being conducive to knowledge sharing. It is an excellent platform for developers.
 
-- Programming
-- Sharing
-- Helping
-- Gain knowledge
+Raptor是一种用于可视化算法设计的编程教育的工具，具有以下优点.
 
-![](https://raw.githubusercontent.com/yangruoyue/yangruoyue.github.io/refs/heads/main/81740b4445b528b6d38a97bd4b68722b.jpg)
+- 直观可视化
+- 易于学习
+- 方便算法设计
+- 支持多种数据类型
 
-## Contact
+![](https://raw.githubusercontent.com/yangruoyue/visual-programming/refs/heads/main/b3ba7e807cacecd7cc5ad712eb603265.png)
 
-![](https://raw.githubusercontent.com/yangruoyue/yangruoyue.github.io/refs/heads/main/89e03a570d79ae2329a9c68ed2a6d268.jpg)
-
-Just give me a call or send me a mail:
-
-1443196183@qq.com  
-Phone: 18374285320
-
-[Send e-mail](mailto:gardening@example.com)
-
-[Call me](tel:55512345678)
-
-## Achievements made
+如何使用raptor
+ 
+主窗口：打开Raptor后，你会看到主窗口，其中包含符号区域和工作区域。符号区域有各种用于构建程序的符号，工作区域则是用来组合这些符号构建程序流程的地方。
+菜单和工具栏：可以通过菜单进行文件操作（如新建、保存程序），还可以利用工具栏的按钮进行一些快捷操作，如运行程序、单步调试等。
+ 
+构建简单程序
+ 
+开始和结束符号：从符号区域拖放一个“Start（开始）”符号和一个“End（结束）”符号到工作区域。这定义了程序流程的起点和终点。
+输入/输出操作：如果你的程序需要输入数据，拖放一个“Input（输入）”符号，设置好要接收的数据类型（如数字、字符串等）。如果要输出结果，拖放一个“Output（输出）”符号。
+赋值和运算：对于需要进行计算的程序，使用“Assignment（赋值）”符号来定义变量并进行赋值操作，还可以使用各种算术运算符号（如加法、减法等）来进行计算。
+流程控制符号：
+Selection（选择）：类似于编程语言中的if - else语句，用于根据条件决定程序的不同分支走向。
+Loop（循环）：有多种循环符号，如“While - Do（当型循环）”和“Do - While（直到型循环）”，用于重复执行一段程序逻辑。
+ 
+运行和调试程序
+ 
+运行程序：在程序构建完成后，点击工具栏中的“Run（运行）”按钮来执行程序，查看输出结果是否符合预期。
+调试程序：如果程序运行结果有误，可以使用单步调试功能。通过逐次执行每个符号对应的操作，观察变量值的变化等情况，找出错误所在。
