@@ -2,7 +2,7 @@
 
 杨若悦
 
-![](https://raw.githubusercontent.com/yangruoyue/yangruoyue.github.io/refs/heads/main/6a74c57075ccd8e53e03c019d7a4ec4b.jpg)
+![](https://raw.githubusercontent.com/yangruoyue/visual-programming/refs/heads/main/a1af47033dff3ec6d002a9ba1243b0e1.png)
 
 Hello  
 welcome to my webpage  
